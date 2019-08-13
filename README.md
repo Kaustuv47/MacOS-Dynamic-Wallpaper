@@ -23,12 +23,8 @@ Installing Manual
 ==========================================
 Additional Software.
 ==========================================
-1. Download "Lingon X" for Mac for creating .plist file easily. It doesn't run in background but help in creating "LaunchD" schedule which is part of Mac OS only. Download a cracked one from torrent or some Mac cracked software site. 
-2. Install it and open.
-3. Click + at the MenuBar and Give name.
-4. Choose Workflow "Change Wallpaper". 
-5. Schedule time in minutes for the calling of the workflow interval.
-6. Save and done.
+** Not Needed **
+Youtube link - https://youtu.be/mOCaogovOTs
 
 ------------------------------------------
 *****Take a Look at the screen sort for more accurate guide.
