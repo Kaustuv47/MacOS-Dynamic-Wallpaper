@@ -38,4 +38,4 @@ Troubleshooting
 ==========================================
 1. If "Set as Dynamic Wallpaper" not found when (Right Clicked) the open "System Peferences" -> "Keyboard" -> "Shortcuts" -> "Services" Scroll down and thick on both the workflow "Set as Dynamic Wallpaper" & "Change Wallpaper".
 2. If not changing then open "~/Library/Application Support" using "Shift+Command+G" and create a folder "DynamicWallpaper".
-Inside "DynamicWallpaper" create test file "DynamicCache.txt"....   Keep in mind (.txt).
+Inside "DynamicWallpaper" create text file "DynamicCache.txt"....   Keep in mind (.txt).
